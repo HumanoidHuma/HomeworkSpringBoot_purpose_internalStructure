@@ -1,0 +1,1 @@
+# HomeworkSpringBoot_purpose_internalStructure
